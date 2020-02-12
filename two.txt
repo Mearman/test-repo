@@ -1,1 +1,2 @@
 second file content
+add second line to second file
